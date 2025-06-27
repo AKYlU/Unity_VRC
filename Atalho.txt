@@ -1,0 +1,20 @@
+Atalhos de Ferramentas na Unity (barra lateral)
+
+[1] Mover câmera (Pan Tool)
+Atalho: Q
+
+[2] Mover objeto/seleção (Move Tool)
+Atalho: W
+
+[3] Rotacionar objeto/seleção (Rotate Tool)
+Atalho: E
+
+[4] Escalar objeto/seleção (Scale Tool)
+Atalho: R
+
+[5] Ferramenta de redimensionamento (Rect Tool)
+Atalho: T
+
+[6] Alternar transformação Global/Local (Transform Pivot Mode)
+Atalho: X ou Shift + Space
+
