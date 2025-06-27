@@ -1,0 +1,8 @@
+Vá em na unity  em cima
+Window > Rendering > Lighting > Lighting Settings
+click em Clear
+
+Delete os seguintes arquivos exzenplo
+LightingData.asset
+Lightmap-*
+Occlusion.*
